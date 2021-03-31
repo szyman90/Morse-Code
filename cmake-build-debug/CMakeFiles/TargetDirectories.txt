@@ -1,0 +1,3 @@
+D:/Stary komputer/Morse_Code/cmake-build-debug/CMakeFiles/Morse_Code.dir
+D:/Stary komputer/Morse_Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Stary komputer/Morse_Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
